@@ -14,6 +14,6 @@ Trabajo en equipo
 Comunicacion efectiva
 
 #Mis proyectos
-Bot de telegram con algunos juegos sencillos 
-Sitio Web simulación "Blog"
+Bot de telegram con algunos juegos sencillos ()
+Sitio Web simulación "Blog" (https://github.com/Luis2796/My_blog)
 
