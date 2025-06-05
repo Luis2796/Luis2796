@@ -1,16 +1,19 @@
-## Hi there 👋
+## ¡Hola! Soy Luis
 
 <!--
 **Luis2796/Luis2796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Mis Hard Skills: 
+Python,POO, algoritmos
+Telegram, Pyrogram
+Flask, Rest API
+SQlite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Mis soft Skils
+Trabajo en equipo
+Comunicacion efectiva
+
+#Mis proyectos
+Bot de telegram con algunos juegos sencillos 
+Sitio Web simulación "Blog"
+
